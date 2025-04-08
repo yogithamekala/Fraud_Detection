@@ -5,7 +5,7 @@ This project was developed as a personal exploration and is not actively maintai
 If you come across any major issues or have questions about the implementation, feel free to open an issue or pull request—I'll do my best to respond when possible.
 
 Datasets
-This project depends on several publicly available datasets. During development, I placed all datasets in a folder located at ../datasets/. A full list of the datasets used, along with links and descriptions, can be found in the accompanying blog post.
+This project depends on several publicly available datasets. During development, I placed all datasets in a folder located at ../datasets/. A full list of the datasets used, along with links and descriptions, can be found in the accompanying [blog](https://www.blogger.com/u/2/blog/post/edit/1907108883869461564/3936590455618453693) post.
 
 Spam wordlist
 The spam wordlist was created based on two sites: [here](https://www.activecampaign.com/blog/spam-words) and [here](https://blog.hubspot.com/blog/tabid/6307/bid/30684/The-Ultimate-List-of-Email-SPAM-Trigger-Words.aspx)
