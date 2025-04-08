@@ -6,3 +6,6 @@ If you come across any major issues or have questions about the implementation, 
 
 Datasets
 This project depends on several publicly available datasets. During development, I placed all datasets in a folder located at ../datasets/. A full list of the datasets used, along with links and descriptions, can be found in the accompanying blog post.
+
+Spam wordlist
+The spam wordlist was created based on two sites: [here](https://www.activecampaign.com/blog/spam-words) and [here](https://blog.hubspot.com/blog/tabid/6307/bid/30684/The-Ultimate-List-of-Email-SPAM-Trigger-Words.aspx)
